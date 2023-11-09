@@ -8,7 +8,7 @@
 
 **Languages and Tools:**
 - 🎛️ PHP, Laravel, Java, Spring Boot, Node.js
-- 🌐 HTML, CSS, JavaScript, ReactJS
+- 🌐 HTML, CSS, JavaScript, Vue, ReactJS
 - 🛢️ Oracle, DB2, MS SQL Server
 - 🧪 JUnit, Jasmine, JMock, SoapUI
 
