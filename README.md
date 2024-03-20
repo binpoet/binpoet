@@ -7,10 +7,10 @@
 👨‍💻 With over 9 years in the industry, I specialize in developing and designing cloud-based applications. I bring extensive experience in both frontend and backend technologies, ensuring seamless, scalable solutions for various use-cases.
 
 **Languages and Tools:**
-- 🎛️ PHP, Laravel, Java, Spring Boot, Node.js
-- 🌐 HTML, CSS, JavaScript, Vue, ReactJS
-- 🛢️ Oracle, DB2, MS SQL Server
-- 🧪 JUnit, Jasmine, JMock, SoapUI
+- 🎛️ PHP, LAMP, LEMP, Laravel, Java, Spring Boot, Node.js
+- 🌐 HTML, CSS, JavaScript, ReactJS, VueJS
+- 🛢️ MySQL, PostgreSQL, MongoDB, Oracle, DB2, MS SQL Server
+- 🧪 Jest, Cypress, JUnit, Jasmine, JMock, SoapUI
 
 **What I'm Up To:**
 - 📌 Currently working on expanding my skillset in 3rd party API integrations.
