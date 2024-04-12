@@ -1,6 +1,6 @@
 ### 👋 Hi there,
 
-#### 🛠️ Senior Web Developer | PHP, Laravel, J2EE, Spring Boot, ReactJS 🛠️
+#### 🛠️ Senior Web Developer | PHP, Laravel, LAMP/LEMP, ReactJS, Vue 🛠️
 
 ---
 
